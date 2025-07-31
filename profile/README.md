@@ -4,7 +4,6 @@
 
 > I am a Backend Developer interested in Software Design and Architecture, proficient in TypeScript and Python
 
-- 💻️ Connect with me on [LinkedIn](https://www.linkedin.com/in/esdmr)
 - 📫 How to reach me [esdmr0@gmail.com](mailto:esdmr0@gmail.com)
 - 📝 I studied Computer Engineering at Chamran University of Rasht
 - 💬 Ask me about: anything, I am happy to help
@@ -67,7 +66,6 @@
 ## 😎 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/esdmr/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="in/esdmr" height="30" width="40" /></a>
 <a href="mailto:esdmr0@gmail.com"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="esdmr0@gmail.com" height="30" width="40" /></a>
 <a href="https://github.com/esdmr"> <img alt="github @esdmr" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~esdmr0"> <img alt="npm ~esdmr0" src="https://www.svgrepo.com/show/452077/npm.svg" height="30" width="40" /></a>
